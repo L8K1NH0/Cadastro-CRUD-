@@ -1,0 +1,11 @@
+C:\Users\Cr4zy\Documents\COD_PESSOAL\CADASTRO_COMPLETO\bin\Debug\CADASTRO_COMPLETO.exe.config
+C:\Users\Cr4zy\Documents\COD_PESSOAL\CADASTRO_COMPLETO\bin\Debug\CADASTRO_COMPLETO.exe
+C:\Users\Cr4zy\Documents\COD_PESSOAL\CADASTRO_COMPLETO\bin\Debug\CADASTRO_COMPLETO.pdb
+C:\Users\Cr4zy\Documents\COD_PESSOAL\CADASTRO_COMPLETO\obj\Debug\CADASTRO_COMPLETO.csproj.AssemblyReference.cache
+C:\Users\Cr4zy\Documents\COD_PESSOAL\CADASTRO_COMPLETO\obj\Debug\CADASTRO_COMPLETO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cr4zy\Documents\COD_PESSOAL\CADASTRO_COMPLETO\obj\Debug\CADASTRO_COMPLETO.Form1.resources
+C:\Users\Cr4zy\Documents\COD_PESSOAL\CADASTRO_COMPLETO\obj\Debug\CADASTRO_COMPLETO.Properties.Resources.resources
+C:\Users\Cr4zy\Documents\COD_PESSOAL\CADASTRO_COMPLETO\obj\Debug\CADASTRO_COMPLETO.csproj.GenerateResource.cache
+C:\Users\Cr4zy\Documents\COD_PESSOAL\CADASTRO_COMPLETO\obj\Debug\CADASTRO_COMPLETO.csproj.CoreCompileInputs.cache
+C:\Users\Cr4zy\Documents\COD_PESSOAL\CADASTRO_COMPLETO\obj\Debug\CADASTRO_COMPLETO.exe
+C:\Users\Cr4zy\Documents\COD_PESSOAL\CADASTRO_COMPLETO\obj\Debug\CADASTRO_COMPLETO.pdb
